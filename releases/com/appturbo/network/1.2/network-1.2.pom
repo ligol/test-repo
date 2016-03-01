@@ -9,27 +9,27 @@
   <name>Network</name>
   <dependencies>
     <dependency>
-      <groupId>AndroidCore</groupId>
-      <artifactId>langue</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>23.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>AndroidCore</groupId>
+      <groupId>com.parse.bolts</groupId>
+      <artifactId>bolts-tasks</artifactId>
+      <version>1.4.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.appturbo</groupId>
       <artifactId>core</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.parse.bolts</groupId>
-      <artifactId>bolts-tasks</artifactId>
-      <version>1.4.0</version>
+      <groupId>com.appturbo</groupId>
+      <artifactId>langue</artifactId>
+      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
