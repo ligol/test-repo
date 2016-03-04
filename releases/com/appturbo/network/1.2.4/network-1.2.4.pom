@@ -15,12 +15,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>langue</artifactId>
-      <version>1.2.4</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.parse.bolts</groupId>
       <artifactId>bolts-tasks</artifactId>
       <version>1.4.0</version>
