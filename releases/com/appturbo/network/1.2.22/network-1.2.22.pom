@@ -15,6 +15,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>core</artifactId>
+      <version>1.2.22</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.jakewharton.picasso</groupId>
       <artifactId>picasso2-okhttp3-downloader</artifactId>
       <version>1.0.2</version>
@@ -24,12 +30,6 @@
       <groupId>com.parse.bolts</groupId>
       <artifactId>bolts-tasks</artifactId>
       <version>1.4.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>core</artifactId>
-      <version>1.2.22</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
