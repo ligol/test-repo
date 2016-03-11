@@ -6,17 +6,11 @@
   <artifactId>tracking</artifactId>
   <version>1.2.22</version>
   <packaging>aar</packaging>
-  <name>Tracking</name>
+  <name>tracking</name>
   <dependencies>
     <dependency>
       <groupId>com.appturbo</groupId>
       <artifactId>core</artifactId>
-      <version>1.2.22</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>network</artifactId>
       <version>1.2.22</version>
       <scope>compile</scope>
     </dependency>
@@ -43,6 +37,12 @@
       <groupId>com.facebook.android</groupId>
       <artifactId>facebook-android-sdk</artifactId>
       <version>4.5.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>network</artifactId>
+      <version>1.2.22</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
