@@ -6,7 +6,7 @@
   <artifactId>core</artifactId>
   <version>1.2.22</version>
   <packaging>aar</packaging>
-  <name>Core</name>
+  <name>core</name>
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
