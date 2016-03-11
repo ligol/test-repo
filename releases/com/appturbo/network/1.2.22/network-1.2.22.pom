@@ -6,8 +6,14 @@
   <artifactId>network</artifactId>
   <version>1.2.22</version>
   <packaging>aar</packaging>
-  <name>Network</name>
+  <name>network</name>
   <dependencies>
+    <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>core</artifactId>
+      <version>1.2.22</version>
+      <scope>compile</scope>
+    </dependency>
     <dependency>
       <groupId>com.squareup.picasso</groupId>
       <artifactId>picasso</artifactId>
@@ -18,12 +24,6 @@
       <groupId>com.jakewharton.picasso</groupId>
       <artifactId>picasso2-okhttp3-downloader</artifactId>
       <version>1.0.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>core</artifactId>
-      <version>1.2.22</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
