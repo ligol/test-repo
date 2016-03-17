@@ -10,7 +10,7 @@
   <dependencies>
     <dependency>
       <groupId>com.appturbo</groupId>
-      <artifactId>network</artifactId>
+      <artifactId>core</artifactId>
       <version>1.2.44</version>
       <scope>compile</scope>
     </dependency>
@@ -22,15 +22,15 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.adjust.sdk</groupId>
-      <artifactId>adjust-android</artifactId>
-      <version>4.2.1</version>
+      <groupId>com.appturbo</groupId>
+      <artifactId>network</artifactId>
+      <version>1.2.44</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>core</artifactId>
-      <version>1.2.44</version>
+      <groupId>com.adjust.sdk</groupId>
+      <artifactId>adjust-android</artifactId>
+      <version>4.2.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
