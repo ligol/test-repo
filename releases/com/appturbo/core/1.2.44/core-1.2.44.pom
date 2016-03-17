@@ -9,6 +9,12 @@
   <name>core</name>
   <dependencies>
     <dependency>
+      <groupId>com.google.android.gms</groupId>
+      <artifactId>play-services-base</artifactId>
+      <version>8.4.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>23.1.1</version>
@@ -23,7 +29,7 @@
     <dependency>
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-ads</artifactId>
-      <version>8.3.0</version>
+      <version>8.4.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -35,7 +41,7 @@
     <dependency>
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-gcm</artifactId>
-      <version>8.3.0</version>
+      <version>8.4.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
