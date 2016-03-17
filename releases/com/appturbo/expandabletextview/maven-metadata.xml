@@ -3,12 +3,13 @@
   <groupId>com.appturbo</groupId>
   <artifactId>expandabletextview</artifactId>
   <versioning>
-    <release>1.2.45</release>
+    <release>1.2.47</release>
     <versions>
       <version>1.2.22</version>
       <version>1.2.44</version>
       <version>1.2.45</version>
+      <version>1.2.47</version>
     </versions>
-    <lastUpdated>20160317114321</lastUpdated>
+    <lastUpdated>20160317141317</lastUpdated>
   </versioning>
 </metadata>
