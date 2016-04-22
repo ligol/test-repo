@@ -3,7 +3,7 @@
   <groupId>com.appturbo</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.2.73</release>
+    <release>1.2.74</release>
     <versions>
       <version>1.0</version>
       <version>1.0.1</version>
@@ -29,7 +29,8 @@
       <version>1.2.47</version>
       <version>1.2.71</version>
       <version>1.2.73</version>
+      <version>1.2.74</version>
     </versions>
-    <lastUpdated>20160421164741</lastUpdated>
+    <lastUpdated>20160422091001</lastUpdated>
   </versioning>
 </metadata>
