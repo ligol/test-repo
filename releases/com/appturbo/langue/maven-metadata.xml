@@ -3,7 +3,7 @@
   <groupId>com.appturbo</groupId>
   <artifactId>langue</artifactId>
   <versioning>
-    <release>1.2.74</release>
+    <release>1.2.77</release>
     <versions>
       <version>1.2</version>
       <version>1.2.1</version>
@@ -19,7 +19,8 @@
       <version>1.2.71</version>
       <version>1.2.73</version>
       <version>1.2.74</version>
+      <version>1.2.77</version>
     </versions>
-    <lastUpdated>20160422124135</lastUpdated>
+    <lastUpdated>20160426084031</lastUpdated>
   </versioning>
 </metadata>
