@@ -9,6 +9,12 @@
   <name>langue</name>
   <dependencies>
     <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>core</artifactId>
+      <version>1.2.84</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>23.1.1</version>
@@ -18,12 +24,6 @@
       <groupId>com.android.support</groupId>
       <artifactId>support-v4</artifactId>
       <version>23.1.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>core</artifactId>
-      <version>1.2.84</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
