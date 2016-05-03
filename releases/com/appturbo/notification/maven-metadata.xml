@@ -3,7 +3,7 @@
   <groupId>com.appturbo</groupId>
   <artifactId>notification</artifactId>
   <versioning>
-    <release>1.2.87</release>
+    <release>1.2.88</release>
     <versions>
       <version>1.2.20</version>
       <version>1.2.21</version>
@@ -25,7 +25,8 @@
       <version>1.2.85</version>
       <version>1.2.86</version>
       <version>1.2.87</version>
+      <version>1.2.88</version>
     </versions>
-    <lastUpdated>20160503155957</lastUpdated>
+    <lastUpdated>20160503164554</lastUpdated>
   </versioning>
 </metadata>
