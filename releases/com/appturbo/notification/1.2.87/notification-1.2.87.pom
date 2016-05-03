@@ -9,9 +9,9 @@
   <name>notification</name>
   <dependencies>
     <dependency>
-      <groupId>com.squareup.picasso</groupId>
-      <artifactId>picasso</artifactId>
-      <version>2.5.2</version>
+      <groupId>com.appturbo</groupId>
+      <artifactId>network</artifactId>
+      <version>1.2.87</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -21,9 +21,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>tracking</artifactId>
-      <version>1.2.87</version>
+      <groupId>com.squareup.picasso</groupId>
+      <artifactId>picasso</artifactId>
+      <version>2.5.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -41,7 +41,7 @@
     </dependency>
     <dependency>
       <groupId>com.appturbo</groupId>
-      <artifactId>network</artifactId>
+      <artifactId>tracking</artifactId>
       <version>1.2.87</version>
       <scope>compile</scope>
     </dependency>
