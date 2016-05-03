@@ -9,18 +9,6 @@
   <name>tracking</name>
   <dependencies>
     <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>network</artifactId>
-      <version>1.2.88</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>core</artifactId>
-      <version>1.2.88</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-appinvite</artifactId>
       <version>8.4.0</version>
@@ -37,6 +25,18 @@
       <groupId>com.facebook.android</groupId>
       <artifactId>facebook-android-sdk</artifactId>
       <version>4.5.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>core</artifactId>
+      <version>1.2.88</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>network</artifactId>
+      <version>1.2.88</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
