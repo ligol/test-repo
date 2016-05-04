@@ -9,6 +9,18 @@
   <name>admin</name>
   <dependencies>
     <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>langue</artifactId>
+      <version>1.2.90</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>network</artifactId>
+      <version>1.2.90</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>23.1.1</version>
@@ -21,14 +33,14 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>network</artifactId>
-      <version>1.2.90</version>
+      <groupId>com.ganyo</groupId>
+      <artifactId>gcm-server</artifactId>
+      <version>1.0.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.appturbo</groupId>
-      <artifactId>langue</artifactId>
+      <artifactId>capture</artifactId>
       <version>1.2.90</version>
       <scope>compile</scope>
     </dependency>
@@ -39,21 +51,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.ganyo</groupId>
-      <artifactId>gcm-server</artifactId>
-      <version>1.0.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>support-annotations</artifactId>
       <version>23.1.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>capture</artifactId>
-      <version>1.2.90</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
