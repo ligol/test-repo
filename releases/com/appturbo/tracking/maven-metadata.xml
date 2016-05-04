@@ -3,7 +3,7 @@
   <groupId>com.appturbo</groupId>
   <artifactId>tracking</artifactId>
   <versioning>
-    <release>1.2.89</release>
+    <release>1.2.90</release>
     <versions>
       <version>1.2.22</version>
       <version>1.2.44</version>
@@ -24,7 +24,8 @@
       <version>1.2.87</version>
       <version>1.2.88</version>
       <version>1.2.89</version>
+      <version>1.2.90</version>
     </versions>
-    <lastUpdated>20160504075758</lastUpdated>
+    <lastUpdated>20160504080857</lastUpdated>
   </versioning>
 </metadata>
