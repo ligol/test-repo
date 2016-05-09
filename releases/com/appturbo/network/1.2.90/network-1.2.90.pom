@@ -9,15 +9,15 @@
   <name>network</name>
   <dependencies>
     <dependency>
-      <groupId>com.squareup.picasso</groupId>
-      <artifactId>picasso</artifactId>
-      <version>2.5.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.appturbo</groupId>
       <artifactId>core</artifactId>
       <version>1.2.90</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.squareup.picasso</groupId>
+      <artifactId>picasso</artifactId>
+      <version>2.5.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
