@@ -9,12 +9,6 @@
   <name>capture</name>
   <dependencies>
     <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>langue</artifactId>
-      <version>1.2.90</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>23.1.1</version>
@@ -29,6 +23,12 @@
     <dependency>
       <groupId>com.appturbo</groupId>
       <artifactId>network</artifactId>
+      <version>1.2.90</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>langue</artifactId>
       <version>1.2.90</version>
       <scope>compile</scope>
     </dependency>
