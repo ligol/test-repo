@@ -15,6 +15,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>tracking</artifactId>
+      <version>1.2.90</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>design</artifactId>
       <version>23.1.1</version>
@@ -29,19 +35,13 @@
     </dependency>
     <dependency>
       <groupId>com.appturbo</groupId>
-      <artifactId>network</artifactId>
-      <version>1.2.90</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.appturbo</groupId>
       <artifactId>core</artifactId>
       <version>1.2.90</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.appturbo</groupId>
-      <artifactId>tracking</artifactId>
+      <artifactId>network</artifactId>
       <version>1.2.90</version>
       <scope>compile</scope>
     </dependency>
