@@ -21,16 +21,16 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>core</artifactId>
+      <version>1.2.90</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.github.afollestad.material-dialogs</groupId>
       <artifactId>core</artifactId>
       <version>0.8.5.3</version>
       <type>aar</type>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>core</artifactId>
-      <version>1.2.90</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
