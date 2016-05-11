@@ -9,12 +9,6 @@
   <name>network</name>
   <dependencies>
     <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>core</artifactId>
-      <version>1.2.91</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.squareup.picasso</groupId>
       <artifactId>picasso</artifactId>
       <version>2.5.2</version>
@@ -30,6 +24,12 @@
       <groupId>com.parse.bolts</groupId>
       <artifactId>bolts-tasks</artifactId>
       <version>1.4.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>core</artifactId>
+      <version>1.2.91</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
