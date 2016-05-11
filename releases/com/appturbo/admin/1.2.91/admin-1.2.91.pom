@@ -9,12 +9,6 @@
   <name>admin</name>
   <dependencies>
     <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>core</artifactId>
-      <version>1.2.91</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>23.1.1</version>
@@ -22,7 +16,7 @@
     </dependency>
     <dependency>
       <groupId>com.appturbo</groupId>
-      <artifactId>network</artifactId>
+      <artifactId>notification</artifactId>
       <version>1.2.91</version>
       <scope>compile</scope>
     </dependency>
@@ -34,7 +28,13 @@
     </dependency>
     <dependency>
       <groupId>com.appturbo</groupId>
-      <artifactId>capture</artifactId>
+      <artifactId>core</artifactId>
+      <version>1.2.91</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>network</artifactId>
       <version>1.2.91</version>
       <scope>compile</scope>
     </dependency>
@@ -46,7 +46,7 @@
     </dependency>
     <dependency>
       <groupId>com.appturbo</groupId>
-      <artifactId>notification</artifactId>
+      <artifactId>capture</artifactId>
       <version>1.2.91</version>
       <scope>compile</scope>
     </dependency>
