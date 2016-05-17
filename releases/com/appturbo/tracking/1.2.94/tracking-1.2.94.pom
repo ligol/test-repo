@@ -15,12 +15,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>core</artifactId>
-      <version>1.2.94</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-appinvite</artifactId>
       <version>8.4.0</version>
@@ -31,6 +25,12 @@
       <artifactId>iceberg</artifactId>
       <version>0.7</version>
       <type>aar</type>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.appturbo</groupId>
+      <artifactId>core</artifactId>
+      <version>1.2.94</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
