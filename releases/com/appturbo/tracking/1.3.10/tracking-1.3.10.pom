@@ -10,13 +10,13 @@
   <dependencies>
     <dependency>
       <groupId>com.appturbo</groupId>
-      <artifactId>network</artifactId>
+      <artifactId>core</artifactId>
       <version>1.3.10</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.appturbo</groupId>
-      <artifactId>core</artifactId>
+      <artifactId>network</artifactId>
       <version>1.3.10</version>
       <scope>compile</scope>
     </dependency>
