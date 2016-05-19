@@ -22,6 +22,12 @@
     </dependency>
     <dependency>
       <groupId>com.appturbo</groupId>
+      <artifactId>langue</artifactId>
+      <version>1.3.10</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.appturbo</groupId>
       <artifactId>network</artifactId>
       <version>1.3.10</version>
       <scope>compile</scope>
@@ -31,12 +37,6 @@
       <artifactId>core</artifactId>
       <version>0.8.5.3</version>
       <type>aar</type>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.appturbo</groupId>
-      <artifactId>langue</artifactId>
-      <version>1.3.10</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
